@@ -8,11 +8,11 @@ body {
 }
 
 .calculator {
-    background-color: #fff;
-    border: 1px solid #ccc;
+    background-color: #5b1d1d;
+    border: 1px solid #0a0909;
     border-radius: 5px;
     padding: 20px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(103, 151, 41, 0.1);
     text-align: center;
 }
 
